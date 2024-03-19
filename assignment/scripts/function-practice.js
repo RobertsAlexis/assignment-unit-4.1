@@ -20,7 +20,7 @@ function helloName(name) {
 }
 
 // Remember to call the function to test
-console.log(helloName ('Alexis'));
+console.log(helloName ('Roberts'));
 
 // 3. Function to add two numbers together & return the result
 function addNumbers(firstNumber, secondNumber) {
